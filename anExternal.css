@@ -1,0 +1,27 @@
+.yogurt {
+    position: relative;
+    text-align: center;
+    color: black;
+    border-style: double;
+    background-color: #A4EDE2; 
+}
+
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+
+.text {
+      border-style: dotted;
+      text-align: center;
+      float: right;
+}
+
+.ending {
+    border-radius: 25px;
+    background: teal;
+    border-style: ridge;
+    float: left;
+}
